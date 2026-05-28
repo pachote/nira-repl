@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "nira-repl"
-version = "1.0.0"
+version = "1.0.1"
 description = "Secure code execution sandbox for Claude — run Python, JavaScript, and shell commands"
 readme = "README.md"
 requires-python = ">=3.11"

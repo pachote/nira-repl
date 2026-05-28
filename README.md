@@ -1,5 +1,9 @@
 # NIRA REPL MCP
 
+<!-- mcp-name: io.github.pachote/nira-repl -->
+
+mcp-name: io.github.pachote/nira-repl
+
 > Secure code execution sandbox for Claude — run Python, JavaScript, and shell commands
 
 [![PyPI version](https://badge.fury.io/py/nira-repl.svg)](https://pypi.org/project/nira-repl/)
